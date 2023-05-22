@@ -2,6 +2,8 @@ Implementation of bi-objective dykstra's algorithm from the paper ``Safe Navigat
 
 ![image](https://github.com/henrijsprincis/dijkstra-with-risk/assets/38922533/288912c8-ee20-420c-8a60-0b42c37405bd)
 
+![image](https://github.com/henrijsprincis/dijkstra-with-risk/assets/38922533/5ae34162-406c-4472-86b2-98664e92b762)
+
 This code was written as a part of the CM2305 coursework where we worked as a group to developed a mobile applications which enables safe navigation at night.
 
 For an explanation of the algorithm and the project please see the accompanying video presentation https://youtu.be/KdDu_tS5Q2g?t=491.
