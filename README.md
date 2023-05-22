@@ -1,4 +1,4 @@
-Implementation of bi-objective dykstra's algorithm from the paper ``Safe Navigation in Urban Environments" by Esther et. al.
+Implementation of bi-objective dykstra's algorithm from the paper "Safe Navigation in Urban Environments" by Esther et. al.
 
 ![image](https://github.com/henrijsprincis/dijkstra-with-risk/assets/38922533/288912c8-ee20-420c-8a60-0b42c37405bd)
 
